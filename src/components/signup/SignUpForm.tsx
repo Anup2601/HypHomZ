@@ -266,7 +266,7 @@ const SignUpForm: React.FC = () => {
 
           <p className="text-sm text-center text-black">
             Already have an Account?{" "}
-            <a href="#" className="text-xs text-blue-700 underline">
+            <a href="/signin" className="text-xs text-blue-700 underline">
               Sign in
             </a>
           </p>
